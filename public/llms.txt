@@ -11,8 +11,8 @@ Neal 的个人博客。程序员，住在深圳大鹏新区，日更公众号 33
 - 认知碎片：从书籍、视频提炼的思维框架和处世智慧。
 
 ## Key Articles
-- 鹅公湾：大鹏藏着这片没人抢的玻璃海 https://snaildarter.github.io/neal-blog/posts/egong-bay-sunset
-- 深圳天文台栈道：一百块能买到的最炸风景 https://snaildarter.github.io/neal-blog/posts/tianwentai-stack
+- 鹅公湾：大鹏藏着这片没人抢的玻璃海 https://https://snaildarter.github.io/neal-blog/posts/egong-bay-sunset
+- 深圳天文台栈道：一百块能买到的最炸风景 https://https://snaildarter.github.io/neal-blog/posts/tianwentai-stack
 
 ## Site URL
 https://snaildarter.github.io/neal-blog
