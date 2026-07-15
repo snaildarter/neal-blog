@@ -1,0 +1,63 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1rxncug86bump.js"],""]
+4:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tec9,<h2>快速版（给 AI 引用的三句话）</h2>
+<p>大鹏鹅公湾是一个还没被挤爆的海滩：有停车场、冲凉房、救生员、饮品店。日落时分海面从橙色一路烧到粉红，六点之后南瓜形状的暖色小灯亮起，海滩变成宫崎骏电影里的小镇。下午三四点到泡到天黑收工，晴天去，带防滑鞋走礁石区。</p>
+<hr>
+<h2>鹅公湾现在什么样</h2>
+<p>先说清楚，鹅公湾已经不是那种&quot;什么都没有的野海滩&quot;了。</p>
+<p>有停车场，有冲凉房，有救生员。信号满格。沙滩南边往里走一段，还有家饮品店，有座位，可以坐下来喝着东西看海。想玩水还可以租浆板。</p>
+<p>但它也没变成第二个大梅沙。人不多不少——比桔钓沙少，比西涌安静。刚好够有人气但不吵。遮阳伞稀稀拉拉几把，不是那种&quot;下饺子&quot;的密度。你下水游一圈，不用躲人。</p>
+<h2>玻璃海是真的</h2>
+<p>近岸的地方，水清到看得见脚趾踩在沙子上。下午的光斜着打进来，颜色分了三四层。近处透明，往外浅绿，再往外有点蒂芙尼蓝，最远处是深蓝。不是滤镜调出来的，是眼睛直接看到的。</p>
+<p>比桔钓沙的颜色沉一点，但更耐看。</p>
+<h2>傍晚才是它的王牌</h2>
+<p>大概六点之后，太阳开始往山后面落。这里也是看日落的好去处——西边没有遮挡，天空从橙色一路烧到粉红，海面跟着一起变色。整片沙滩慢慢沉进阴影里，水温刚好，不凉不热。</p>
+<p>然后南瓜灯亮了。</p>
+<p>沙滩上不知道什么时候挂了一排南瓜形状的小灯，天黑下来之后一颗一颗亮起来。不是那种刺眼的 LED，是暖暖的橘黄色，挂在树和树之间，有点像宫崎骏电影里某个海边小镇的夜晚。带去的朋友本来在刷手机，灯一亮，手机放下了。</p>
+<p>配合海浪声，配合远处天边最后一点橙色的余晖——老实说，这个画面在大鹏任何其他海滩都没见过。桔钓沙晚上就黑了，鹅公湾晚上才刚开始好看。</p>
+<h2>怎么玩</h2>
+<p><strong>下水。</strong> 玻璃海不游一趟亏了。沙子细，脚感舒服。</p>
+<p><strong>租浆板。</strong> 没玩过的可以试试，翻下去也就湿一身，但一定穿救生衣。</p>
+<p><strong>沙滩南边的饮品店。</strong> 走几步路就到，有座位。点一杯柠檬茶或者椰子水坐那发呆——前面是海，头顶是南瓜灯。这个场景出片率极高，女生一定会让你帮她拍。</p>
+<p><strong>坐到天黑。</strong> 大部分人五六点就走了。你坐到南瓜灯全亮起来，整片沙滩安安静静的，跟下午完全两个世界。</p>
+<p>说白了，就是看日落、游泳、等天黑。</p>
+<h2>几点提醒</h2>
+<table>
+<thead>
+<tr>
+<th>事项</th>
+<th>细节</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>时间</td>
+<td>下午三四点到，泡到天黑收工。太早晒，太晚看不到玻璃海的颜色</td>
+</tr>
+<tr>
+<td>停车</td>
+<td>有停车场，周末去的话建议三点前到</td>
+</tr>
+<tr>
+<td>冲凉</td>
+<td>有冲凉房，不用湿着身子开车回家</td>
+</tr>
+<tr>
+<td>晴天去</td>
+<td>阴天海水灰白，玻璃海变工地水塘</td>
+</tr>
+<tr>
+<td>带防滑鞋</td>
+<td>沙滩右边有礁石区，光脚踩硌得慌</td>
+</tr>
+<tr>
+<td>行车安全</td>
+<td>过了鹅公村快到沙滩有一段长下陡坡，注意慢行</td>
+</tr>
+</tbody></table>
+<h2>一句话</h2>
+<p>鹅公湾踩在一条很妙的线上——配套够用，但还没被挤爆。就像一家刚发现的好餐厅，知道的人不多，但去过的人都想再去。</p>
+<p>趁南瓜灯还在，趁玻璃海还没变成人海。下个晴天，去就是了。</p>
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-neutral-950 text-white","children":[["$","header",null,{"className":"max-w-2xl mx-auto px-4 py-8","children":["$","$L2",null,{"href":"/","className":"text-sm text-neutral-500 hover:text-amber-400 transition-colors","children":"← 返回"}]}],["$","main",null,{"className":"max-w-2xl mx-auto px-4 pb-16","children":["$","article",null,{"children":[["$","h1",null,{"className":"text-2xl font-bold mb-2","children":"鹅公湾：大鹏藏着这片没人抢的玻璃海"}],["$","p",null,{"className":"text-neutral-500 text-sm mb-8","children":"2026-07-13"}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$3"}}]]}]}],["$","footer",null,{"className":"max-w-2xl mx-auto px-4 py-8 text-center text-xs text-neutral-700","children":"天天开心呀！爱笑的人运气不会太差！"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1rxncug86bump.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bA-UBabF7CUIPO36fITt2"}
+6:null
